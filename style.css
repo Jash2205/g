@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    
+}
+
+.line{
+    background-color: black;
+    width: 70px;
+    height: 6px;
+    margin: 8px auto;
+}
+#apps{
+    background-color: aquamarine;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+        
+   font-family: 'MonteCarlo', cursive;
+}
+
+#games{
+    background-color: antiquewhite;
+}
+
+
+
+img {
+    transition: transform .2s;
+    
+
+}
+img:hover{
+    transform: scale(0.9);
+}
+#chat{
+    background-color: beige;
+}
